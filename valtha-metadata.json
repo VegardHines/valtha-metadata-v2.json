@@ -27,5 +27,6 @@
         "type": "image/png"
       }
     ]
-  }
+  },
+  "uri": "https://raw.githubusercontent.com/VegardHines/valtha-metadata-v2.json/refs/heads/main/valtha-metadata.json"
 }
