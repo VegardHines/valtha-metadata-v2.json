@@ -1,15 +1,15 @@
 {
-    "name": "Valtha",
-    "symbol": "VTA",
-    "description": "The Valtha token (VTA) on Solana.",
-    "mint_address": "6Wws64XvgvcPojGi637QwPb3rX5RdPpYp4rDAQmD9RCP",
-    "image": "https://i.imgur.com/RVkPdzo.png",
-    "seller_fee_basis_points": 500,
-    "attributes": [
-      { "trait_type": "Blockchain", "value": "Solana" },
-      { "trait_type": "Category", "value": "Cryptocurrency" },
-      { "trait_type": "Purpose", "value": "Global payments" }
-    ],
-    "external_url": "https://valtha.com",
-  }
-  
+  "name": "Valtha",
+  "symbol": "VTA",
+  "description": "The Valtha token (VTA) on Solana.",
+  "mint_address": "NY_MINT_ADDRESS",  
+  "image": "https://i.imgur.com/RVkPdzo.png",
+  "seller_fee_basis_points": 500,
+  "total_supply": 950000000000,
+  "attributes": [
+    { "trait_type": "Blockchain", "value": "Solana" },
+    { "trait_type": "Category", "value": "Cryptocurrency" },
+    { "trait_type": "Purpose", "value": "Global payments" }
+  ],
+  "external_url": "https://valtha.com"
+}
