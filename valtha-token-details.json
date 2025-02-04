@@ -2,10 +2,11 @@
   "name": "Valtha",
   "symbol": "VTA",
   "description": "The Valtha token (VTA) on Solana.",
-  "mint_address": "CNYv3U8yQwMPo9pHpBnphyi92FFHxzLxUnTok8iMGHQr",  
+  "mint_address": "66rC79HrQ29QmNNwvGMJxosGuo81GzdfWn33FaKxQLRk",
   "image": "https://i.imgur.com/RVkPdzo.png",
   "seller_fee_basis_points": 500,
   "total_supply": 950000000000,
+  "decimals": 6,
   "attributes": [
     { "trait_type": "Blockchain", "value": "Solana" },
     { "trait_type": "Category", "value": "Cryptocurrency" },
