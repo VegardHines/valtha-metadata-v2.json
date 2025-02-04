@@ -2,7 +2,7 @@
   "name": "Valtha",
   "symbol": "VTA",
   "description": "The Valtha token (VTA) on Solana.",
-  "mint_address": "NY_MINT_ADDRESS",  
+  "mint_address": "CNYv3U8yQwMPo9pHpBnphyi92FFHxzLxUnTok8iMGHQr",  
   "image": "https://i.imgur.com/RVkPdzo.png",
   "seller_fee_basis_points": 500,
   "total_supply": 950000000000,
