@@ -3,7 +3,7 @@
   "symbol": "VTA",
   "description": "The Valtha token (VTA) on Solana.",
   "mint_address": "6zq1DykvB8BiA97s7q7Pj7fJYs83WcDLajWbpJtq95mx",
-  "image": "https://i.imgur.com/RVkPdzo.png",
+  "image": "https://amber-famous-catfish-326.mypinata.cloud/ipfs/bafybeibjpi5yoibbcgm6du7ckkw6wabsirpdmomeryigus4dfz32nmziku",
   "seller_fee_basis_points": 500,
   "uri": "https://raw.githubusercontent.com/VegardHines/valtha-metadata-v2.json/refs/heads/main/valtha-token-details.json"
 }
